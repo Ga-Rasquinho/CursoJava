@@ -1,0 +1,30 @@
+package application;
+
+
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int cartwheelsInAMinute = 30; 
+
+		if (cartwheelsInAMinute > 48) { 
+
+		System.out.println("New world record!");
+
+		} else if (cartwheelsInAMinute > 30 && cartwheelsInAMinute <= 48) { 
+
+		System.out.println("Awesome Job!");
+
+		} else if (cartwheelsInAMinute > 0 && cartwheelsInAMinute <= 30) { 
+
+		System.out.println("Still impressive!"); 
+
+		} else {
+
+		System.out.println("Keep trying!"); 
+
+		}
+	}
+
+}

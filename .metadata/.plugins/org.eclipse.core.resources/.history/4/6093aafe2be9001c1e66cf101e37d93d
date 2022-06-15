@@ -1,0 +1,13 @@
+package application;
+
+
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int x = 1; String result = (x <= 1) ? "We are set for takeoff. " : "Launch Aborted! ";
+		System.out.println(result);
+	}
+
+}

@@ -1,0 +1,12 @@
+package entities;
+
+public class Empregado extends Usuario {
+	private String funcaoEmpregado;
+
+	public Empregado(int idUsuario, String nome, double salario, int tipoUsuario, String funcaoEmpregado) {
+		super(idUsuario, nome, salario, tipoUsuario);
+		this.funcaoEmpregado = funcaoEmpregado;
+	}
+	
+	
+}

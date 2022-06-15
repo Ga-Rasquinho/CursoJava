@@ -1,0 +1,17 @@
+package application;
+
+
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		boolean isKeeperFish = false;
+		if (isKeeperFish) {
+		System.out.println("Fish for dinner");
+		} else {
+		System.out.println("Take out for dinner");
+		}
+	}
+
+}

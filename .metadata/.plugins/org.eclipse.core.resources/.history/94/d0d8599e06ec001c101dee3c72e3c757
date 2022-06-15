@@ -1,0 +1,8 @@
+package entities;
+
+public class Usuario {
+	private int idUsuario;
+	private String nome;
+	private double salario;
+	private int tipoUsuario;
+}

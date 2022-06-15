@@ -1,0 +1,5 @@
+package entities;
+
+public class GerenciamentoPedidos extends Empregado {
+	private int idPedido;
+}

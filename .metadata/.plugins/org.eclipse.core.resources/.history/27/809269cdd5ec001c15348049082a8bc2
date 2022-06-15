@@ -1,0 +1,23 @@
+package application;
+
+import java.util.Locale;
+import java.util.Scanner;
+
+public class MainMetodosAbstract {
+
+	public static void main(String[] args) {
+		
+		Locale.setDefault(Locale.US);
+		Scanner sc = new Scanner(System.in);
+		
+		System.out.println("Enter the number of shapes: ");
+		var n = sc.nextInt();
+		
+		for (int i = 1; i<=n; i++) {
+			System.out.print("Shape #" + i + " data:");
+		}
+		
+		sc.close();
+	}
+
+}

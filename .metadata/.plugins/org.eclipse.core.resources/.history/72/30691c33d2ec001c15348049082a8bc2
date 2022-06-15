@@ -1,0 +1,7 @@
+package entities;
+
+public abstract class AccountAbs {
+	private Integer number;
+	private String holder;
+	protected Double balance;
+}

@@ -1,0 +1,21 @@
+package application;
+import java.util.Arrays;
+import entities.Calculadora;
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Calculadora soma = new Calculadora();
+		
+		System.out.println(soma.Somar(1,2));
+		System.out.println(soma.Somar(1,2,3));
+		System.out.println(soma.subtrair(1,2));
+		System.out.println(soma.subtrair(5,5,10));
+		System.out.println(soma.multiplicar(1,2));
+		System.out.println(soma.multiplicar(1,2,3));
+		System.out.println(soma.dividir(1,2));
+		System.out.println(soma.dividir(1,2,3));
+	}
+
+}

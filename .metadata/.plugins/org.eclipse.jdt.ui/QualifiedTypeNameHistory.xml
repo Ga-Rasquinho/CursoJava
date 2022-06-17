@@ -3,7 +3,6 @@
     <fullyQualifiedTypeName name="entities.Retangulo"/>
     <fullyQualifiedTypeName name="util.CalculatorMembroEstatico"/>
     <fullyQualifiedTypeName name="application.Main"/>
-    <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="Entities.Usuario"/>
     <fullyQualifiedTypeName name="Entities.UsuarioRefatorado"/>
     <fullyQualifiedTypeName name="org.w3c.dom.ls.LSOutput"/>
@@ -19,7 +18,6 @@
     <fullyQualifiedTypeName name="entities.enums.WorkerLevel"/>
     <fullyQualifiedTypeName name="entities.Department"/>
     <fullyQualifiedTypeName name="entities.HourContract"/>
-    <fullyQualifiedTypeName name="java.util.Date"/>
     <fullyQualifiedTypeName name="entities.Comment"/>
     <fullyQualifiedTypeName name="entities.Post"/>
     <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
@@ -30,10 +28,17 @@
     <fullyQualifiedTypeName name="entities.BusinessAccountAbs"/>
     <fullyQualifiedTypeName name="entities.BusinessAccount"/>
     <fullyQualifiedTypeName name="entities.SavingsAccount"/>
-    <fullyQualifiedTypeName name="java.util.Locale"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="entities.enums.Color"/>
     <fullyQualifiedTypeName name="entities.Shape"/>
     <fullyQualifiedTypeName name="entities.Rectangle"/>
     <fullyQualifiedTypeName name="entities.Circle"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.util.Locale"/>
+    <fullyQualifiedTypeName name="exercicio.entities.Client"/>
+    <fullyQualifiedTypeName name="exercicio.entities.Order"/>
+    <fullyQualifiedTypeName name="exercicio.entities.Product"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="exercicio.entities.enums.OrderStatus"/>
+    <fullyQualifiedTypeName name="exercicio.entities.OrderItem"/>
 </qualifiedTypeNameHistroy>

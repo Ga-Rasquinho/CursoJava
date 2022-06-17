@@ -4,7 +4,7 @@ import entities.Account;
 import entities.BusinessAccount;
 import entities.SavingsAccount;
 
-public class MainHerança {
+public class MainHeranÃ§a {
 
 	public static void main(String[] args) {
 		
